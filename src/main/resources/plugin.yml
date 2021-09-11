@@ -1,0 +1,8 @@
+name: CyberLife
+version: ${project.version}
+main: me.deadlight.cyberlife.CyberLife
+api-version: 1.13
+authors: [ Dead_Light ]
+description: A Military grade android system for a block game (Slimefun addon)
+depend:
+  - Slimefun
